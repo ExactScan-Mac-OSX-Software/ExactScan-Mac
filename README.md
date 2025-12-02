@@ -9,7 +9,7 @@
 
 <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/a9/51/fc/a951fcba-d119-5762-1603-575cad08b452/ExactScan.png/1200x630bb.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/exactscan">
+<a href="https://mac-apps-install.github.io/.github/exactscan">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 
